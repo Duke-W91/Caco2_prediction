@@ -1,5 +1,7 @@
 # ADMET Evaluation in Drug Discovery. 21. Application and Industrial Validation of Machine Learning Algorithms for Caco-2 Permeability Prediction
 
+## Data
+We collected experimental values of Caco-2 permeability from three publicly available datasets, resulting in 7861 compounds being included in this research. After data curation, a total of 5654 compounds with structural diversity were obtained.
 
 ## Requirements
 
