@@ -9,9 +9,9 @@ In curated_caco2_data folder,  the results of the MMP analysis were also include
 
 ## Model
 
-descriptor_model: contain the codes for training four descriptor-based models (XGBoost, SVM, GB, and RF).
-combinednet and dmpnn: contain the codes for training the CombinedNet and DMPNN.
-saved_models: contain the best-performing models obtained in this research.
+*descriptor_model: contain the codes for training four descriptor-based models (XGBoost, SVM, GB, and RF).
+*combinednet and dmpnn: contain the codes for training the CombinedNet and DMPNN.
+*saved_models: contain the best-performing models obtained in this research.
 
 
 ## Requirements
