@@ -5,7 +5,7 @@
 
 We collected experimental values of Caco-2 permeability from three publicly available datasets, resulting in 7861 compounds being included in this research. After data curation, a total of 5654 compounds with structural diversity were obtained.  
 
-We additionally collected 271 compounds reported in 2022 and 2023 from the ChEMBL database as the external set (please see the jupyter notebook contained in the folder).  
+We additionally collected 271 compounds reported in 2022 and 2023 from the ChEMBL database as the external set (see the jupyter notebook contained in the folder).  
 
 In **curated_caco2_data folder**,  the results of the MMP analysis were also included.
 
